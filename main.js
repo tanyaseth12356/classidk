@@ -39,7 +39,7 @@ function draw()
  fill(255,0,0);
  stroke(255,0,0);
  circle(noseX, noseY, 20);
- image(clown_nose, noseX-15, noseY-35, 250, 150);
+ image(clown_nose, noseX-65, noseY-65, 250, 150);
 }
 
 function take_snapshot(){    
